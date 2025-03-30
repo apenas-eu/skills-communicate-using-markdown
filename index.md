@@ -12,3 +12,7 @@ var myVar = "Hello, world!";
 ``` c sharp code
 Console.WriteLine("Generating invoices for customer \"Contoso Corp\" ...\n");
 ```
+
+- [x] Bub
+- [x] Microsoft learn
+- [ ] ver as coisas da faculdade
